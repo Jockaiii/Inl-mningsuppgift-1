@@ -9,6 +9,7 @@ namespace Inlämningsuppgift_1
             // deklarera variabler & annat för att avändaren ska kunna ange operatorer och värden
             decimal a, b, c, svar;
             string op1, op2;
+            int i;
 
             // läs in vad användaren anger
             Console.WriteLine("Ange operatör nummer 1:");
