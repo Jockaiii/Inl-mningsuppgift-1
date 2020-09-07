@@ -6,4 +6,8 @@
     <RootNamespace>Inlämningsuppgift_1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\00joaand\source\repos\Inlämningsuppgift1.cs" Link="Inlämningsuppgift1.cs" />
+  </ItemGroup>
+
 </Project>
